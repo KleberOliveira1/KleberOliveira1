@@ -11,13 +11,13 @@
 <br>
   <h3> Habilidades técnicas: </h3>
   <div style="display: inline_block">  
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
-  <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
-  <img height="50" src="https://skillicons.dev/icons?i=github" />
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+  <img height="50" src="https://skillicons.dev/icons?i=github"/>
+  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
   </div>
   <br>
   <br>
