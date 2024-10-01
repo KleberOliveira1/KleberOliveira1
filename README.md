@@ -4,7 +4,6 @@
 - 📍 Morando em Sumaré, São Paulo, Brasil
 - 📚 Estou cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente estou aprimorando minhas habilidades em Python
-- 😄 Pronouns: ele/dele
 - 🏓 Hobbies: Leitura e Jogos
 
 ##
