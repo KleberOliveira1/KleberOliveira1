@@ -11,9 +11,6 @@
 <br>
   <h3> Habilidades técnicas: </h3>
   <div style="display: inline_block">  
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
   <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
   <img height="50" src="https://skillicons.dev/icons?i=github"/>
